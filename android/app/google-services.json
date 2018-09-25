@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "490160959426",
+    "project_id": "firebase-dingnan"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490160959426:android:61be76e68276d3e2",
+        "android_client_info": {
+          "package_name": "com.dingnan.cgu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490160959426-0gpgi2otagn3fdqomg73tqmjit20t578.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dingnan.cgu",
+            "certificate_hash": "71feb74d8665faba59d77bb3199b96478737fb9d"
+          }
+        },
+        {
+          "client_id": "490160959426-9ueefacgvvf08hrd5an3cfo26sm18atr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFGPAUaGqUPltRYMtDc3X3h_ISXFFuwTY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
